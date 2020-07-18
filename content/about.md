@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2019-07-09
-menu: main
+menu: about
 draft: true
 ---
 > Hey, I am Bishow Kaji Shrestha
