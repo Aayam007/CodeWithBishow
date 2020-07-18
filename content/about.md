@@ -2,19 +2,14 @@
 title: About
 date: 2019-07-09
 menu: main
+draft: true
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> Hey, I am Bishow Kaji Shrestha
 
-## How to use?
+ creator of codewithbishow.com
 
-### Managing content with [Forestry](https://forestry.io)
+I am completely self-taught and still trying to learn whatever I can that would help boost my career to the next level and improve my technical/personal skills.
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
+As a side project, I decided to start a blog where I could document my programming journey and make it accessible for developers who are getting started with particular stacks similar to my area of interest.
 
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://cecil.app/cms/forestry/import/)
-
-### Deploy with [Netlify](https://www.netlify.com)
-
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/the-butler&stack=cms)
+ I write tutorials, articles, and Beginner’s Guides on C# / ASP.NET Core, Javascript, JQuery, SQL, React.Js  that you may relate to as a developer. I will make it as structured as possible so that you would find it easy to navigate across through my content.
